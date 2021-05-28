@@ -1,7 +1,11 @@
 <h1 align="center">Hi :wave:, I'm Fatma Vural</h1>
 <h3 align="center">I'm a analog person in digital world also part-time engineer</h3>
 
-- :pencil: I regularly write articles on [https://fatmavurall.medium.com/](https://fatmavurall.medium.com/)
+- 📝 I regularly write articles on [https://fatmavurall.medium.com/](https://fatmavurall.medium.com/)
+
+- 💬 Ask me about **Altium Design, Quartus Program, Fusion360**
+
+- 📫 How to reach me **fatma.vural1@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +27,4 @@
     <a href="https://www.altium.com/" target="_blank"> <img
                 src="https://github.com/erkanzsy/erkanzsy/blob/main/assets/altium.png?raw=true" alt="git" width="80" height="40"/> </a>
 </p>
+
